@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPage1</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_prompt">New Member? <u>Register</u></string>
+</resources>
